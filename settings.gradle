@@ -1,0 +1,1 @@
+include ':app', ':collectionlearn', ':javasynchronized', ':rxjavatest'
