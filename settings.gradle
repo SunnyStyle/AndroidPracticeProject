@@ -1,1 +1,1 @@
-include ':app', ':collectionlearn', ':javasynchronized', ':rxjavatest'
+include ':app', ':collectionlearn', ':javasynchronized', ':rxjavatest', ':http'

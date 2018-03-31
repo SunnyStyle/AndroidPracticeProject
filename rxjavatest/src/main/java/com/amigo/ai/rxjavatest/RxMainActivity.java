@@ -160,4 +160,8 @@ public class RxMainActivity extends AppCompatActivity {
 
     }
 
+    private void testLift(){
+
+    }
+
 }
