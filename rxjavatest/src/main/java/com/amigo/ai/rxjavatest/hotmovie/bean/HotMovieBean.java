@@ -1,4 +1,4 @@
-package com.amigo.ai.rxjavatest.hotmovie;
+package com.amigo.ai.rxjavatest.hotmovie.bean;
 
 import android.databinding.BaseObservable;
 import android.databinding.Bindable;
