@@ -22,7 +22,6 @@ public class HotMovieActivity extends AppCompatActivity {
     Button getHotMovie;
 
     HotMovieViewModel hotMovieViewModel;
-    private Object hotMovieData;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
